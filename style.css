@@ -82,9 +82,9 @@ h3 {
 }
 
 h4 {
-    padding-left: 15px;
+    padding-left: 8px;
     border-bottom: 1px solid #0056b3;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 /* テーブル（表）のデザイン */
@@ -155,4 +155,5 @@ table.info-table th {
         overflow-x: auto;
     }
 }
+
 
