@@ -51,7 +51,7 @@ a:hover { text-decoration: underline; }
     background-color: #ddd;
 }
 
-.menu-inner div {
+.menu-inner li div {
     display: block;
     margin-bottom: 10px;
     padding: 10px;
@@ -149,6 +149,7 @@ table.info-table th {
         overflow-x: auto;
     }
 }
+
 
 
 
