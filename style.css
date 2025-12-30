@@ -55,7 +55,7 @@ a:hover { text-decoration: underline; }
     display: block;
     margin-bottom: 10px;
     padding: 10px;
-    color: #ffffff;
+    color: #fff;
     font-weight: bold;
     background-color: #003399;
 }
@@ -149,4 +149,5 @@ table.info-table th {
         overflow-x: auto;
     }
 }
+
 
