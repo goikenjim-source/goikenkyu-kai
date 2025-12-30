@@ -67,7 +67,7 @@ h2 {
 }
 
 h3 {
-    background-color: #eef;
+    background-color: #d7eeff;
     padding: 8px 10px;
     border-radius: 4px;
 }
@@ -139,4 +139,5 @@ table.info-table th {
     .gakkaishi_log {
         overflow-x: auto;
     }
+
 }
