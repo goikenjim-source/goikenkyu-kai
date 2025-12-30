@@ -55,10 +55,9 @@ a:hover { text-decoration: underline; }
     display: block;
     margin-bottom: 10px;
     padding: 10px;
-    color: #333;
+    color: #ffffff;
     font-weight: bold;
     background-color: #003399;
-	color: #FFFFFF;
 }
 
 /* メインコンテンツ */
@@ -150,6 +149,7 @@ table.info-table th {
         overflow-x: auto;
     }
 }
+
 
 
 
