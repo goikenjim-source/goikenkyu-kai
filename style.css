@@ -58,7 +58,7 @@ a:hover { text-decoration: underline; }
     color: #333;
     font-weight: bold;
     background-color: #003399;
-	font-color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 /* メインコンテンツ */
@@ -150,5 +150,6 @@ table.info-table th {
         overflow-x: auto;
     }
 }
+
 
 
